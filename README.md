@@ -4,7 +4,7 @@
 
 This project was completed as part of the *Cognifyz Technologies Data Science Internship (Level 2 – Task 3).*
 
-The objective of this task is to perform *Feature Engineering* on the Zomato Restaurant Dataset by creating meaningful features from existing data and encoding categorical variables for future machine learning and data analysis.
+The objective of this task is to perform *Feature Engineering* on the Zomato Restaurant Dataset by creating meaningful features from existing data and encoding categorical variables for improved data analysis.
 
 ---
 
@@ -13,7 +13,7 @@ The objective of this task is to perform *Feature Engineering* on the Zomato Res
 - Extract meaningful features from existing columns.
 - Create text-based features using restaurant information.
 - Encode categorical variables into numerical format.
-- Prepare the dataset for machine learning models.
+- Prepare the dataset for further data analysis.
 - Improve data usability through feature engineering.
 
 ---
@@ -120,7 +120,7 @@ python feature_engineering.py
 - Feature Engineering transforms raw data into meaningful information.
 - Text-based features provide additional characteristics that can improve analysis.
 - Encoding categorical variables makes the dataset suitable for machine learning algorithms.
-- The generated dataset is better prepared for predictive modeling.
+- The generated dataset is enriched with meaningful engineered features.
 
 ---
 
@@ -133,7 +133,6 @@ Through this project, I strengthened my understanding of:
 - Categorical Encoding
 - Data Preparation
 - Data Preprocessing using Pandas
-- Preparing datasets for Machine Learning
 
 ---
 
